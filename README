@@ -1,0 +1,19 @@
+README  
+
+Overview
+============
+
+These are the exercises for the Operating Systems Laboratory course
+of National Technical University of Athens (NTUA) 2012-2013.
+
+exercise1: Implementation of a Linux character device driver
+
+exercise2: Implementation of a Qemu virtual device and 
+a simple TCP/IP communication (chat) using Linux sockets
+
+Misc 
+============  
+
+For any bugs or comments/contributions, please contact 
+Spyridon (Spiros) Mastorakis <spiros[dot]mastorakis[at]gmail[dot]com> 
+or George Matikas <g_matikas[at]hotmail[dot]com>.
